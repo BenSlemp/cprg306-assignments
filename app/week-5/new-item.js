@@ -103,7 +103,7 @@ export default function NewItem() {
           type="submit"
           className="w-full bg-blue-600 text-white px-3 py-2 text-sm hover:bg-blue-700 transition rounded-md"
         >
-          Add Item
+          +
         </button>
       </form>
     </div>
